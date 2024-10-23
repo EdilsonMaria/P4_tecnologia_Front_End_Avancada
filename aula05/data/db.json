@@ -1,0 +1,19 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Edilson Maria",
+            "email": "edilson@gmail.com"
+        },
+        {
+           "id": 2,
+            "nome": "Nayara NAscimento",
+            "email": "nayara@gmail.com" 
+        }, 
+        {
+            "id": 3,
+            "nome": "Felipe Pereira",
+            "email": "felipe@gmail.com"
+        }
+    ]
+}
