@@ -1,0 +1,19 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "Amanha nao tem aula",
+            "texto": "lorem ipson, lorem ipson"
+        },
+        {
+            "id": 2,
+            "titulo": "Provas canceladas",
+            "texto": "lorem ipson, lorem ipson"
+        },
+        {
+            "id": 3,
+            "titulo": "So notas boas",
+            "texto": "lorem ipson, lorem ipson"
+        }
+    ]
+}
